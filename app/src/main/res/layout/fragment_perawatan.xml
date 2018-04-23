@@ -125,7 +125,7 @@
             <ImageView
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:src="@drawable/icon_bonus"
+                android:src="@drawable/cetak"
                 android:layout_marginTop="25dp"
                 android:layout_gravity="center"/>
         </LinearLayout>

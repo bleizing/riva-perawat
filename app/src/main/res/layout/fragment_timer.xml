@@ -59,13 +59,13 @@
             android:layout_width="0dp"
             android:layout_height="100dp"
             android:layout_weight="0.5"
-            android:src="@drawable/icon_login"/>
+            android:src="@drawable/stop"/>
 
         <ImageView
             android:layout_width="0dp"
             android:layout_height="100dp"
             android:layout_weight="0.5"
-            android:src="@drawable/icon_bonus"/>
+            android:src="@drawable/kamera"/>
 
     </LinearLayout>
 

@@ -51,21 +51,21 @@
                 android:layout_width="0dp"
                 android:layout_height="75dp"
                 android:layout_weight="1"
-                android:src="@drawable/icon_bonus" />
+                android:src="@drawable/go" />
 
             <ImageView
                 android:id="@+id/img_2"
                 android:layout_width="0dp"
                 android:layout_height="75dp"
                 android:layout_weight="1"
-                android:src="@drawable/icon_training" />
+                android:src="@drawable/timer" />
 
             <ImageView
                 android:id="@+id/img_3"
                 android:layout_width="0dp"
                 android:layout_height="75dp"
                 android:layout_weight="1"
-                android:src="@drawable/icon_edukasi" />
+                android:src="@drawable/mr" />
 
         </LinearLayout>
 
@@ -79,21 +79,21 @@
                 android:layout_width="0dp"
                 android:layout_height="75dp"
                 android:layout_weight="1"
-                android:src="@drawable/icon_jurnal_gds" />
+                android:src="@drawable/rp" />
 
             <ImageView
                 android:id="@+id/img_5"
                 android:layout_width="0dp"
                 android:layout_height="75dp"
                 android:layout_weight="1"
-                android:src="@drawable/icon_suplemen" />
+                android:src="@drawable/call" />
 
             <ImageView
                 android:id="@+id/img_6"
                 android:layout_width="0dp"
                 android:layout_height="75dp"
                 android:layout_weight="1"
-                android:src="@drawable/icon_dressing" />
+                android:src="@drawable/kamera" />
 
         </LinearLayout>
 

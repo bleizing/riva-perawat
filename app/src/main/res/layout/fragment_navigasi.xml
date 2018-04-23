@@ -23,7 +23,7 @@
     <ImageView
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:src="@drawable/icon_login"
+        android:src="@drawable/tiba"
         android:layout_gravity="center"
         android:layout_marginTop="25dp"/>
 

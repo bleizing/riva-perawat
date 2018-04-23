@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         ActionBar actionBar = getSupportActionBar();
         actionBar.setBackgroundDrawable(getResources().getDrawable(R.drawable.gradient_biru_biru));
         actionBar.setTitle("DASHBOARD");
-        actionBar.setDisplayHomeAsUpEnabled(true);
+//        actionBar.setDisplayHomeAsUpEnabled(true);
 
         LinearLayout linear_coba = findViewById(R.id.linear_coba);
         linear_coba.setOnClickListener(new View.OnClickListener() {
